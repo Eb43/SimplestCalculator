@@ -1,0 +1,22 @@
+com/example/simplestcalculatorwithpercentage/BuildConfig.java
+ com.example.simplestcalculatorwithpercentage.BuildConfig
+com/example/simplestcalculatorwithpercentage/MainActivity.java
+ com.example.simplestcalculatorwithpercentage.MainActivity
+ com.example.simplestcalculatorwithpercentage.MainActivity$1
+ com.example.simplestcalculatorwithpercentage.MainActivity$10
+ com.example.simplestcalculatorwithpercentage.MainActivity$11
+ com.example.simplestcalculatorwithpercentage.MainActivity$12
+ com.example.simplestcalculatorwithpercentage.MainActivity$13
+ com.example.simplestcalculatorwithpercentage.MainActivity$14
+ com.example.simplestcalculatorwithpercentage.MainActivity$15
+ com.example.simplestcalculatorwithpercentage.MainActivity$16
+ com.example.simplestcalculatorwithpercentage.MainActivity$17
+ com.example.simplestcalculatorwithpercentage.MainActivity$18
+ com.example.simplestcalculatorwithpercentage.MainActivity$2
+ com.example.simplestcalculatorwithpercentage.MainActivity$3
+ com.example.simplestcalculatorwithpercentage.MainActivity$4
+ com.example.simplestcalculatorwithpercentage.MainActivity$5
+ com.example.simplestcalculatorwithpercentage.MainActivity$6
+ com.example.simplestcalculatorwithpercentage.MainActivity$7
+ com.example.simplestcalculatorwithpercentage.MainActivity$8
+ com.example.simplestcalculatorwithpercentage.MainActivity$9
